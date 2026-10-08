@@ -1,26 +1,32 @@
-# Stellita Labs
+<div align="center">
+
+## Stellita Labs
 
 Build on Stellar without writing a single line of Rust
 
-**Contents**
+![Soroban](https://img.shields.io/badge/Soroban-smart%20contracts-0b0a14?style=for-the-badge)
 
-- [What it is](#what-it-is)
-- [Capabilities](#capabilities)
-- [Repository](#repository)
+[![repo](https://img.shields.io/badge/github-stellita-app-7D00FF?style=flat-square&logo=github)](https://github.com/stellita-labs/stellita-app)
 
-## What it is
+### Stellar ecosystem project
+
+</div>
 
 Describe a dApp in plain language → Stellita generates a React frontend, deploys audited OpenZeppelin Soroban contracts to Stellar testnet, and wires them up.
 
-## Capabilities
+### Inside the repo
 
-- **Live preview** · Vite + React 19 frontend rendered through Sandpack
-- **Structured generation** · Vercel AI SDK `streamObject` with Zod schemas
-- **Real deployment** · audited OpenZeppelin Soroban contracts shipped from committed WASM
+- **Live preview** — Vite + React 19 frontend rendered through Sandpack
+- **Structured generation** — Vercel AI SDK `streamObject` with Zod schemas
+- **Real deployment** — audited OpenZeppelin Soroban contracts shipped from committed WASM
 
-## Repository
+### On-chain on Stellar
 
-<https://github.com/stellita-labs/stellita-app>
+Built for the **Stellar** network with **Soroban** smart contracts — transactions are public and auditable.
 
----
-*`Vite` · `React 19` · `TypeScript` · `Tailwind` · `Soroban` · `Supabase`*
+### Links
+
+- Source: https://github.com/stellita-labs/stellita-app
+- Stack: `Vite` · `React 19` · `TypeScript` · `Tailwind` · `Soroban` · `Supabase`
+| [Stellar](https://stellar.org) | [Soroban](https://soroban.stellar.org) | [Docs](https://developers.stellar.org) |
+| --- | --- | --- |
